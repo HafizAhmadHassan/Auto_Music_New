@@ -1,4 +1,5 @@
 # Auto Music Generation
+*Created: 2022-06-16*
 
 An automatic **music generation** project.
 
